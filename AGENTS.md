@@ -56,6 +56,19 @@ this guidance.
    preserve its cause and resumption condition, and continue unaffected work
    where authorized. Do not turn an unknown into permission or a global STOP.
 
+**REQUIRED EXECUTION SURFACES MUST FIT THE EXECUTION ENVIRONMENT.** Before
+commissioning material delegated work, check that the selected execution route
+can use the surfaces foreseeably required for completion under its effective
+environment and current authority. Repository writability is only one surface;
+credentials/Keychain, native or GUI execution, signing, OS privacy permissions,
+installation and other protected local resources retain distinct capability and
+consent boundaries. If compatibility cannot be established before launch, carry
+the exact surface, route and uncertainty into the assignment and apply the
+current Consumer Work Bootstrap before the first dependent protected action,
+using non-privileged evidence. Do not use predictable repeated Human approval,
+Full Access or sandbox escape to compensate for an incompatible route. This is
+non-constitutive operating guidance; it grants no authority or Product adoption.
+
 ## Bounded source discovery
 
 Follow documented project-local pointers first, resolving their exact authority
