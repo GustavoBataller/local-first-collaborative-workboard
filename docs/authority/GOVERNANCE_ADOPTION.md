@@ -16,17 +16,37 @@ Product Truth and technical acceptance are not supplied by FICACI Platform, Anvi
 
 ## 2. Cross-Project Governance adoption
 
+### Current governing edition — Revised Updated v14
+
 Local-first Collaborative Workboard explicitly and prospectively adopts:
+
+- edition: `FICACI Cross-Project Governance Kernel Revised Updated v14`
+- tag: `governance-kernel-revised-updated-v14`
+- tag object: `1bb0cdcfad0c959bed3b0ad235e42963b855c908`
+- issuance commit: `b5118761aa0084c90864fbb1910b276a6bdc096a`
+- canonical path: `governance/CROSS-PROJECT_GOVERNANCE_KERNEL.md`
+- Git blob: `814c9174972f1b015a219679cd2f3a178fd614f5`
+- SHA-256: `582b42dd6be6a6aced64680c42192bc9ff07b089a404cc73b3c3ed685d13e23a`
+- prospective effective date for this Product: `2026-09-27`
+
+This adoption was explicitly constituted by the current legitimate Human/Product DO authority through the decision `ADOPT_KERNEL_V14_PROSPECTIVELY`.
+
+The reviewed v13→v14 change is a prospective `MATERIAL_GOVERNANCE_CHANGE` with `ADOPTION_ONLY` migration impact and `NONE` retrospective effect. It strengthens only Section I, Rule 3 [D] with the `DECISION-SENSITIVE EVIDENCE ROUTE CONSIDERATION` corollary. It does not change Product Truth, Product scope, Product acceptance, architecture, implementation authority or historical work.
+
+### Historical governing edition — Revised Updated v13
+
+Before the prospective v14 adoption above, Local-first Collaborative Workboard legitimately governed under:
 
 - edition: `FICACI Cross-Project Governance Kernel Revised Updated v13`
 - tag: `governance-kernel-revised-updated-v13`
 - release commit: `4ab1b4b759f22e79d6a39e911fe558a0b64d1693`
 - canonical path: `governance/CROSS-PROJECT_GOVERNANCE_KERNEL.md`
 - SHA-256: `e2d5dde27770cb086f68bde2ce481b8bd5d758f11f93e42062404aff441017ec`
+- Product adoption date: `2026-09-22`
 
-This adoption was explicitly constituted by Human/DO on 2026-09-22.
+V13 remains immutable historical governing truth for work legitimately performed while it governed. No prior work is retrospectively invalidated, reopened or revalidated merely because v14 is now adopted.
 
-A later Platform commit, file copy or governance edition does not silently move this Product to a different Kernel.
+A later Platform commit, file copy or governance edition does not silently move this Product to another Kernel. Any future edition still requires legitimate Product-local applicability and adoption.
 
 ## 3. Platform bootstrap identity observed for constitution
 
