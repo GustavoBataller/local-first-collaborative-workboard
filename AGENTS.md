@@ -105,7 +105,9 @@ judgment; identify reserved Human actions separately. Preserve agency, recoverab
 mission state and the actual Human decision. Commission conditional derivable
 continuation to the next genuine gate within current authority. Coherence grants
 no scope. Preserve exact subjects, freeze, independence and evidence lineage.
-Use small valid batches. The governing Kernel and actual commission control.
+Use small batches when they buy information, independence, control or risk reduction;
+otherwise use the largest safe, coherent, authorized train to the next genuine material
+decision gate. The governing Kernel and actual commission control.
 <!-- mission-reminder:end -->
 
 For material delegated work, carry the reminder, exact relevant source identities
