@@ -16,9 +16,34 @@ Product Truth and technical acceptance are not supplied by FICACI Platform, Anvi
 
 ## 2. Cross-Project Governance adoption
 
-### Current governing edition — Revised Updated v14
+### Current governing edition — Revised Updated v17
 
 Local-first Collaborative Workboard explicitly and prospectively adopts:
+
+- edition: `FICACI Cross-Project Governance Kernel Revised Updated v17`
+- tag: `governance-kernel-revised-updated-v17`
+- tag object: `b77250e3d0b244a11d215674afeec2f6f0ec54a9`
+- issuance commit: `084396f5ff57d2d8599e8fd254f0793fcf88b6c9`
+- canonical path: `governance/CROSS-PROJECT_GOVERNANCE_KERNEL.md`
+- Git blob: `27691df33a55a14586fd461e5955f285b47f19a7`
+- SHA-256: `88ab9e215820d95052d8f6b28f5f1a3681bd28c45ce052ed5feba316d0e319e7`
+- prospective effective date for this Product: `2026-10-06`
+
+The current legitimate Product DO authority resolved the complete transition from the previously adopted v14 through the finalized v15, v16 and v17 manifests and constituted the decision `ADOPT_KERNEL_V17_PROSPECTIVELY`.
+
+Resolved cumulative path:
+
+- v14 → v15: Rule 43 [D], `SUFFICIENT_AND_PROPORTIONATE_HUMAN_COMMUNICATION`;
+- v15 → v16: Rule 16 [F], `PROPOSALS_DO_NOT_CONSTITUTE_AUTHORITY_OR_A_SELECTED_COURSE_OF_ACTION`;
+- v16 → v17: Rule 3 [D], `MANDATORY_EXTERNAL_ECOSYSTEM_EVIDENCE_BEFORE_MATERIAL_INVENTION`.
+
+All three transitions are prospective `MATERIAL_GOVERNANCE_CHANGE` entries with `ADOPTION_ONLY` migration impact and `NONE` retrospective effect. They do not change Product Truth, Product scope, Product acceptance, architecture, implementation authority or historical work.
+
+For the current LFCW frontier, the v17 Rule 3 corollary applies before materially selecting or freezing a consequential bespoke application stack or other internally invented solution. The responsible engineering actor must either reuse sufficiently current, applicable and coextensive external evidence or perform a proportionate real external-ecosystem check before that material selection/freeze. External precedent remains evidence, not Product authority, and no external solution is automatically selected.
+
+### Historical governing edition — Revised Updated v14
+
+Before the prospective v17 adoption above, Local-first Collaborative Workboard legitimately governed under:
 
 - edition: `FICACI Cross-Project Governance Kernel Revised Updated v14`
 - tag: `governance-kernel-revised-updated-v14`
@@ -27,11 +52,9 @@ Local-first Collaborative Workboard explicitly and prospectively adopts:
 - canonical path: `governance/CROSS-PROJECT_GOVERNANCE_KERNEL.md`
 - Git blob: `814c9174972f1b015a219679cd2f3a178fd614f5`
 - SHA-256: `582b42dd6be6a6aced64680c42192bc9ff07b089a404cc73b3c3ed685d13e23a`
-- prospective effective date for this Product: `2026-09-27`
+- Product adoption date: `2026-09-27`
 
-This adoption was explicitly constituted by the current legitimate Human/Product DO authority through the decision `ADOPT_KERNEL_V14_PROSPECTIVELY`.
-
-The reviewed v13→v14 change is a prospective `MATERIAL_GOVERNANCE_CHANGE` with `ADOPTION_ONLY` migration impact and `NONE` retrospective effect. It strengthens only Section I, Rule 3 [D] with the `DECISION-SENSITIVE EVIDENCE ROUTE CONSIDERATION` corollary. It does not change Product Truth, Product scope, Product acceptance, architecture, implementation authority or historical work.
+V14 remains immutable historical governing truth for work legitimately performed while it governed. V15 and v16 were resolved as intervening issued editions in the cumulative adoption path to v17; they were not separately constituted as historical LFCW governing periods.
 
 ### Historical governing edition — Revised Updated v13
 
